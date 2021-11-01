@@ -1,0 +1,2 @@
+# LaPlat
+Labeling Platform
